@@ -7,9 +7,9 @@ export const config: EnvConfig = {
   vpcId: "my_vpcId",
   zone: {
     id: "xxxx",
-    name: "xxx.metriport.com",
+    name: "xxx.epabienestar.net",
   },
-  domain: "metriport.com",
+  domain: "epabienestar.net",
   subdomain: "fhir",
   dbName: "my_db",
   dbUsername: "my_db_user",
